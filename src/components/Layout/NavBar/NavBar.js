@@ -10,7 +10,7 @@ const NavBar = () => {
         <Link to="/">
           <img src={logo} alt="costs" />
         </Link>
-        
+
         <ul className={styles.list}>
           <li className={styles.item}>
             <Link to="/">Home</Link>

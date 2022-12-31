@@ -2,8 +2,11 @@
   display: flex;
   justify-content: space-between;
   background-color: #222;
-  padding: 1em;
+  padding: 1em 7em;
   width: 100%;
+}
+.navbar img { 
+    width: 100%;
 }
 
 .list { 
