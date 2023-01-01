@@ -1,8 +1,8 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Company from "./components/pages/Company";
 import Contact from "./components/pages/Contact";
 import Home from "./components/pages/Home/Home";
-import NewProject from "./components/pages/NewProject";
+import NewProject from "./components/pages/NewProject/NewProject";
 import Container from "./components/Layout/Container";
 import NavBar from './components/Layout/NavBar/NavBar'
 import Footer from './components/Layout/Footer/Footer'
