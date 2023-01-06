@@ -6,7 +6,7 @@ import NewProject from "./components/pages/NewProject/NewProject";
 import Container from "./components/Layout/Container";
 import NavBar from './components/Layout/NavBar/NavBar'
 import Footer from './components/Layout/Footer/Footer'
-import Projects from "./components/pages/Projects";
+import Projects from "./components/pages/ProjectPage/Projects";
 
 function App() {
   return (
