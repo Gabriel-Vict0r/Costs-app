@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "DevOPS",
-      "budget": "45400",
+      "name": "Novo projeto",
+      "budget": "45000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": [],

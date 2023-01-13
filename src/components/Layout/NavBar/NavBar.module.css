@@ -4,6 +4,7 @@
   background-color: #222;
   padding: 1em 7em;
   width: 100%;
+  flex-wrap: wrap;
 }
 .navbar img { 
     width: 100%;
