@@ -4,11 +4,18 @@
       "name": "Novo projeto",
       "budget": "45000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 222,
+      "services": [
+        {
+          "name": "userAdmin",
+          "cost": "222",
+          "description": "sfsdf",
+          "id": "78c537dd-a0de-4383-b2bf-3522a0fb45cd"
+        }
+      ],
       "id": 7
     },
     {
@@ -21,6 +28,49 @@
       "cost": 0,
       "services": [],
       "id": 10
+    },
+    {
+      "name": "Teste03",
+      "budget": "34000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": -19960,
+      "services": [
+        {
+          "name": "Contrato",
+          "cost": "2300",
+          "description": "Contratar dev PHP",
+          "id": "091cdadb-2793-4caa-ab44-4e29d50fc97c"
+        },
+        {
+          "name": "desenvolvimento",
+          "cost": "1232",
+          "description": "desenvolver api rest",
+          "id": "19df935c-b3ff-4bed-a87e-58ef1fc71636"
+        }
+      ],
+      "id": 11,
+      "service": [
+        {
+          "name": "desenvolvimento",
+          "cost": "1232",
+          "description": "desenvolver api rest",
+          "id": "19df935c-b3ff-4bed-a87e-58ef1fc71636"
+        }
+      ]
+    },
+    {
+      "name": "Projeto definitivo",
+      "budget": "45000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 12
     }
   ],
   "categories": [
